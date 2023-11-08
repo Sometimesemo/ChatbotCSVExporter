@@ -1,9 +1,6 @@
 Needed Librarys:
-#!pip install tiktoken
-#!pip install cohere
-#!pip install langchain
-#!pip install openai
-#!pip install pandas
-
-Python Version used:
-Python 3.10.12
+tiktoken
+cohere
+langchain
+openai
+pandas
