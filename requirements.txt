@@ -5,3 +5,5 @@ Needed Librarys:
 #!pip install openai
 #!pip install pandas
 
+Python Version used:
+Python 3.10.12
